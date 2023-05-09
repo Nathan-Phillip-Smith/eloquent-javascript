@@ -20,3 +20,11 @@ for (let i = 1; i <= size; i++) {
   }
   console.log(line);
 }
+
+// strighterline
+// study.com
+// math 103 pre
+// math 104
+// discrete math 1
+// sophia
+// calc 1
